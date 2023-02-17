@@ -1,3 +1,9 @@
 streamlit
 textrazor
 flask
+openai
+scipy
+matplotlib
+plotly
+tiktoken
+scikit-learn
